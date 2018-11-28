@@ -1,7 +1,8 @@
 # Recognizing dogs from ImageNet dataset.
-> Timon Schneider
-> Carlos Cajello
-> 07 April 2018
+Timon Schneider
+Carlos Cajello
+07 April 2018
+
 
 With a Caffe GoogLeNet model running from a NVIDIA Jetson TX2 module we aimed to find all dogs in the ImageNet dataset. C++, OpenCV2.
 
